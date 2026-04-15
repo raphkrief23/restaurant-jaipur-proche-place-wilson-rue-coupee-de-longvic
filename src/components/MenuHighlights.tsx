@@ -4,8 +4,8 @@ const categories = [
   {
     title: "Les Entrées",
     items: [
-      { name: "Samossas viandes (2 pièces)", price: "7,00" },
-      { name: "Samossas légumes (2 pièces)", price: "6,00" },
+      { name: "Samossas viandes (2 pièces)", price: "9,00" },
+      { name: "Samossas légumes (2 pièces)", price: "8,00" },
       { name: "Mixte Pakora (beignets d'ognons, pommes de terre, aubergines)", price: "9,50" },
       { name: "Poulet Tikka (morceaux de poulet blanc)", price: "9,50" },
       { name: "Agneau Tikka (morceaux d'agneau)", price: "10,50" },
