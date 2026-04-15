@@ -6,6 +6,7 @@ import gallery4 from "@/assets/gallery/photo4.jpg";
 import gallery5 from "@/assets/gallery/photo5.jpg";
 import gallery6 from "@/assets/gallery/photo6.jpg";
 import gallery7 from "@/assets/gallery/photo7.jpg";
+import gallery8 from "@/assets/gallery/photo7.jpg";
 
 const galleryImages = [
   { src: gallery1, label: "Nos plats" },
@@ -15,6 +16,7 @@ const galleryImages = [
   { src: gallery5, label: "Nos plats" },
   { src: gallery6, label: "Nos plats" },
   { src: gallery7, label: "Nos plats" },
+  { src: gallery8, label: "Nos desserts" },
 ];
 
 const GallerySection = () => {
